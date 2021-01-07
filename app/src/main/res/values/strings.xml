@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Convertor</string>
+    <string name="Header">convertor</string>
+    <string name="dark_light">Dark/Light</string>
+    <string name="distance">km to mile</string>
+    <string name="temperature">celsium to fahrenheit</string>
+    <string name="parrot">parrots in boa</string>
+    <string name="one_header">kilometers</string>
+    <string name="hint">edit number</string>
+    <string name="two_header">miles</string>
+    <string name="cels_header">celsius</string>
+    <string name="far_header">Fahrenheits</string>
+    <string name="boa_header">boa</string>
+    <string name="par_header">parrots</string>
+</resources>
